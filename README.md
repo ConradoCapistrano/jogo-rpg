@@ -34,7 +34,7 @@ git clone https://github.com/ConradoCapistrano/jogo-rpg
 ```
 
 ### Acessar o Site do Projeto :
-[https://formulario-simples-conrado-capistrano.netlify.app/]
+[https://jogo-rpg-conrado-capistrano.netlify.app/]
 
 # Creator / Autor
 
